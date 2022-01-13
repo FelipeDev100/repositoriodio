@@ -1,0 +1,20 @@
+1- Crie uma pasta no disco local de sua máquina 
+-Nomeei essa pasta como "Workspace"
+-Acesse essa pasta
+-Usando o botão direito de seu mousse selecione a opção GIT BASH
+2-Acesse o seu GitHub e Copie o link da opção html 
+-acesse o terminal Git Bash e execute o segundo comando:
+Git clone -- Link do Github http-- (Lembre-se no terminal o crtl+v n funciona então aperte o botão direito de seu mouse e clique em Pastle)
+--Após isso vc perceberá que foi criado uma nova pasta no seu Workspace , além dela também foi criado o README e uma pasta .git
+-Utilizando o comando cd , acesse essa pasta que foi criada ( no meu caso o nome do meu repositorio é "repositoriodio")
+--crie uma pasta dentro desse repositorio dentro do workspace , dentro da pasta com mo nome de seu repositorio , crie um txt e copie esses dados aqui ;)
+-Agora execute o comando git status no terminal , você irá perceber que agora tem um arquivo para executar o commit
+3-Usando o comando git add. essa nova pasta irá ser adicionada para podermos realizar o commit da mesma
+-Realiazando o comando git status você perceberá que o nome está verde ou seja foi adicionada com sucesso para a realização do commit 
+-Agora execute o comando git commit -m "Passo a Passo para subir um arquivo local para a nuvem do GITHUB
+-Após isso realize novamente o comando git status , você provavelmente percebera que o comando está dizendo que tem um arquivo para realizar o pcommit e solicitará o push
+-Agora Por fim execute o comando git push origin main
+Pronto agora verifique no seu GitHub , pronto , você conseguiu subir seu arquivo local para a nuvem
+Obrigado pela atenção e um abraço e atém mais.
+Arquivo de 13/01/2022 
+;)
